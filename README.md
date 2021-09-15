@@ -1,4 +1,4 @@
-# AS_MNIST_wavelet
+# MNIST wavelet compression
 
 Project for the Signal Analysis subject of the Master in Data Science. The main objective of the project is to explore how much the wavelet transformation and comprenssion affect to image recognition.
 
