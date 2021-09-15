@@ -21,11 +21,11 @@ For each model I plot the confusion matrix and some of the errors the model made
 # Results
 
 
-|  Image  |       Image shape      |  Image comprenssion |  Accuracy |  Accuracy reduction |
+|  Image  |       Image shape      |  Image compression |  Accuracy |  Accuracy reduction |
 |:--------:|:--------------:|:-----:|:---:|:---:|
 | Original | 28 x 28 (784 pixels) | - | 99.03% | - |
 | 1 wavelet level | 14 x 14 (196 pixels) | 75.00% | 99.02% | 0.01% |
 | 2 wavelet level | 7 x 7 (49 pixels) | 93.75% | 97.09% | 1.95% |
 
-I have obtain that with images of 28 x 28 (784 pixels) the accuracy is 99.03%. With a comprenssion to 14 x 14  images (196 pixels, 75% of reduction) the accuracy only goes down to a 99.02% (only a 0.01% of reduction). Finally, with a comprenssion to 7 x 7 images (49 pixels, 93.75% of reduction) the accuracy goes down to 97.09% (reduction of 1.95%).
+I have obtain that with images of 28 x 28 (784 pixels) the accuracy is 99.03%. With a compression to 14 x 14  images (196 pixels, 75% of reduction) the accuracy only goes down to a 99.02% (only a 0.01% of reduction). Finally, with a compression to 7 x 7 images (49 pixels, 93.75% of reduction) the accuracy goes down to 97.09% (reduction of 1.95%).
 
